@@ -11,7 +11,7 @@ list_of_tuples = cursor.fetchall()
 print(list_of_tuples)
 for table_tup in list_of_tuples:
     table_name = table_tup[0]
-    print("---------------------------------")
+    print("-----------------------------------------------------")
     print("Table Name: ", table_name)
     print("Columns: ")
    
