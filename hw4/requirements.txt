@@ -1,0 +1,9 @@
+cryptography
+Flask
+Werkzeug
+cryptography
+scikit-learn
+numpy
+transformers
+torch
+detoxify
